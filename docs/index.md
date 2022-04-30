@@ -1,12 +1,9 @@
 # Welcome to my personal blog 
-> This is my first web page
+
+## About me
+> I'm a third year UBC student major in Mathematics. 
 >
-# I don't know what to write
-> Really don't know
->> don't know still
->
-## Subtitle
-### Test the smaller subtitle
-##### Even smaller
-[Look at my wife UwU](https://jojo.fandom.com/wiki/Johnny_Joestar)
-![image info](Johnny.jpg)
+## Projects
+> [Snake it out](https://github.com/qiandexin2001/snake-it-out)\
+> [To do list](https://github.com/qiandexin2001/To-do-list)\
+> [Pick restaurants near school](https://github.com/qiandexin2001/Pick-restaurant-near-school)
